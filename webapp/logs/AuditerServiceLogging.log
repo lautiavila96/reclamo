@@ -1,0 +1,6 @@
+2021-04-17 23:17:28.502 5bb0d721-c365-4ca3-ad7c-1ed477d8dd69,0: simple.Profesor:1 by sven, nombre: [NEW] -> Juan
+2021-04-17 23:17:28.502 5bb0d721-c365-4ca3-ad7c-1ed477d8dd69,0: simple.Profesor:1 by sven, apellido: [NEW] -> Perez
+2021-04-17 23:17:28.503 5bb0d721-c365-4ca3-ad7c-1ed477d8dd69,0: simple.Profesor:1 by sven, documento: [NEW] -> 11223344
+2021-04-17 23:17:54.608 03a539d8-3f3e-44a4-923a-2349f069854c,0: simple.Profesor:2 by sven, nombre: [NEW] -> Miguel
+2021-04-17 23:17:54.617 03a539d8-3f3e-44a4-923a-2349f069854c,0: simple.Profesor:2 by sven, apellido: [NEW] -> Arcamone
+2021-04-17 23:17:54.618 03a539d8-3f3e-44a4-923a-2349f069854c,0: simple.Profesor:2 by sven, documento: [NEW] -> 23786965
