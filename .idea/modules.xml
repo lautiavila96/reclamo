@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/colegio.iml" filepath="$PROJECT_DIR$/colegio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/colegio-application.iml" filepath="$PROJECT_DIR$/application/colegio-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-simple/colegio-module-simple.iml" filepath="$PROJECT_DIR$/module-simple/colegio-module-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/colegio-webapp.iml" filepath="$PROJECT_DIR$/webapp/colegio-webapp.iml" />
+    </modules>
+  </component>
+</project>

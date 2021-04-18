@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="colegio-webapp" />
+        <module name="colegio-module-simple" />
+        <module name="colegio-application" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="colegio" target="1.8" />
+      <module name="colegio-application" target="1.8" />
+      <module name="colegio-module-simple" target="1.8" />
+      <module name="colegio-webapp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="colegio-application" options="-parameters" />
+      <module name="colegio-module-simple" options="-parameters" />
+      <module name="colegio-webapp" options="-parameters" />
+    </option>
+  </component>
+</project>
